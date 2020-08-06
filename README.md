@@ -1,0 +1,1 @@
+# 8queen-GeneticAlgorigthm
